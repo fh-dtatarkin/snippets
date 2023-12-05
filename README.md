@@ -1,0 +1,1 @@
+Collection of handy code snippets (generalized)
