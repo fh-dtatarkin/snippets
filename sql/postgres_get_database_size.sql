@@ -1,5 +1,5 @@
 --- Simple option for retrieving DB size
-SELECT pg_size_pretty(pg_database_size('<DB_NAME>'))
+SELECT pg_size_pretty(pg_database_size('<DB_NAME>'));
 
 --- Storage used by table
 SELECT
